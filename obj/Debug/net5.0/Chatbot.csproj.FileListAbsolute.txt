@@ -1,0 +1,16 @@
+C:\Users\Der_Kevos\RiderProjects\Chatbot\Chatbot\bin\Debug\net5.0\Chatbot.exe
+C:\Users\Der_Kevos\RiderProjects\Chatbot\Chatbot\bin\Debug\net5.0\Chatbot.deps.json
+C:\Users\Der_Kevos\RiderProjects\Chatbot\Chatbot\bin\Debug\net5.0\Chatbot.runtimeconfig.json
+C:\Users\Der_Kevos\RiderProjects\Chatbot\Chatbot\bin\Debug\net5.0\Chatbot.runtimeconfig.dev.json
+C:\Users\Der_Kevos\RiderProjects\Chatbot\Chatbot\bin\Debug\net5.0\Chatbot.dll
+C:\Users\Der_Kevos\RiderProjects\Chatbot\Chatbot\bin\Debug\net5.0\ref\Chatbot.dll
+C:\Users\Der_Kevos\RiderProjects\Chatbot\Chatbot\bin\Debug\net5.0\Chatbot.pdb
+C:\Users\Der_Kevos\RiderProjects\Chatbot\Chatbot\obj\Debug\net5.0\Chatbot.csproj.AssemblyReference.cache
+C:\Users\Der_Kevos\RiderProjects\Chatbot\Chatbot\obj\Debug\net5.0\Chatbot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Der_Kevos\RiderProjects\Chatbot\Chatbot\obj\Debug\net5.0\Chatbot.AssemblyInfoInputs.cache
+C:\Users\Der_Kevos\RiderProjects\Chatbot\Chatbot\obj\Debug\net5.0\Chatbot.AssemblyInfo.cs
+C:\Users\Der_Kevos\RiderProjects\Chatbot\Chatbot\obj\Debug\net5.0\Chatbot.csproj.CoreCompileInputs.cache
+C:\Users\Der_Kevos\RiderProjects\Chatbot\Chatbot\obj\Debug\net5.0\Chatbot.dll
+C:\Users\Der_Kevos\RiderProjects\Chatbot\Chatbot\obj\Debug\net5.0\ref\Chatbot.dll
+C:\Users\Der_Kevos\RiderProjects\Chatbot\Chatbot\obj\Debug\net5.0\Chatbot.pdb
+C:\Users\Der_Kevos\RiderProjects\Chatbot\Chatbot\obj\Debug\net5.0\Chatbot.genruntimeconfig.cache
