@@ -72,7 +72,7 @@ namespace Chatbot
                 {
                     //Gleicht aktuelles Wort mit aktuellem Schlüssel ab 
                     //Wenn der Schlüssel und das Word Identisch sind, passiert etwas
-                    if (dictEntrie.Key == word)
+                    if (dictEntrie.Key.ToUpper() == word.ToUpper())
                     {
                         //Schreibt den Wert des Schlüssels in die Konsole
                         Console.WriteLine(dictEntrie.Value);
