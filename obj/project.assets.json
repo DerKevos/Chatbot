@@ -8,19 +8,19 @@
     "net5.0": []
   },
   "packageFolders": {
-    "C:\\Users\\kdi\\.nuget\\packages\\": {}
+    "C:\\Users\\Der_Kevos\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\kdi\\OneDrive - C & P Capeletti & Perl Gesellschaft f. Datentechnik mbH\\Spiele Wiese\\Chatbot\\Chatbot.csproj",
+      "projectUniqueName": "C:\\Users\\Der_Kevos\\RiderProjects\\Chatbot\\Chatbot\\Chatbot.csproj",
       "projectName": "Chatbot",
-      "projectPath": "C:\\Users\\kdi\\OneDrive - C & P Capeletti & Perl Gesellschaft f. Datentechnik mbH\\Spiele Wiese\\Chatbot\\Chatbot.csproj",
-      "packagesPath": "C:\\Users\\kdi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\kdi\\OneDrive - C & P Capeletti & Perl Gesellschaft f. Datentechnik mbH\\Spiele Wiese\\Chatbot\\obj\\",
+      "projectPath": "C:\\Users\\Der_Kevos\\RiderProjects\\Chatbot\\Chatbot\\Chatbot.csproj",
+      "packagesPath": "C:\\Users\\Der_Kevos\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Der_Kevos\\RiderProjects\\Chatbot\\Chatbot\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\kdi\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\Der_Kevos\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net5.0"
@@ -58,7 +58,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Users\\kdi\\.dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Users\\Der_Kevos\\.dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
       }
     }
   }
