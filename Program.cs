@@ -38,7 +38,9 @@ namespace Chatbot
                     if (!isAnswerAlraedyGiven)
                     {
                         //Gibt eine Standardausgabe aus
-                        Console.WriteLine("Erro 404");
+                        Console.WriteLine("Ich habe Ihre Anfrage leider nicht verstanden. " +
+                                          "Bitte versuchen Sie Ihr Anliegen anders zu formulieren " +
+                                          "oder wenden Sie sich an unsere Supporthotline.");
                     }
                 } //end if 
                 else
